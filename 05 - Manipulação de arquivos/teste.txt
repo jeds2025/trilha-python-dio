@@ -2,9 +2,9 @@
 Escrevendo dados em um novo arquivo.
 ------------------------------------
 
-escrevendo
+escrevendo novamente
 um
 novo
-texto
+texto simples
 
 ------------------------------------
